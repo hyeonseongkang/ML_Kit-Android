@@ -1,0 +1,2 @@
+rootProject.name = "ML_Kit-Android"
+include ':app'
