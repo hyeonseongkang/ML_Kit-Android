@@ -20,5 +20,5 @@
 <br>
 
 ### 1. 얼굴 감지 실행화면
-<img src="https://user-images.githubusercontent.com/68272971/178095930-7d0e95ba-f7c6-4554-a160-94ac1244d03f.gif">
+<img src="https://user-images.githubusercontent.com/68272971/178096282-c0f73839-c4c0-44ba-8c5b-cf476c779061.gif">
 
